@@ -20,6 +20,8 @@ slug: "my-post"
 Post content in Markdown.
 ```
 
+The optional `slug` defaults to a slug generated from the title.
+
 To enable automatic rebuilds, add a fine-grained personal access token as the
 `WEBSITE_REPO_TOKEN` Actions secret. Limit it to `solielkeisen/Ravi.me` and grant
 **Contents: read and write** permission. The token is used only to send a
