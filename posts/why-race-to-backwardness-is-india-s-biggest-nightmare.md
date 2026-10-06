@@ -4,6 +4,7 @@ date: 2026-09-08
 description: Being more weak in India is a super power. The weaker you show yourself, the more the government will try to empower you.
 ---
 
+
 When I see the race to be more Backward in India, I think of what Swami Vivekananda ji said:
 
 "The weak have no place here, in this life or any other life. Weakness leads to slavery. Weakness leads to all kinds of misery, physical and mental. Weakness is death."
